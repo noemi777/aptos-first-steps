@@ -3,7 +3,7 @@ name = "Tipos primitivos"
 version = "0.0.0"
 
 [addresses]
-aptosz3 = "0x5A6F6E612054726573"
+index = "0x5A6F6E612054726573"
 
 [dependencies.AptosStdlib]
 git = 'https://github.com/aptos-labs/aptos-core.git'
